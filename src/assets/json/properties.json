@@ -1,0 +1,44 @@
+[
+  {
+  "Id" : 1,
+  "Name" : "House name",
+  "Type" : "House",
+  "Price" : 12000
+  },
+  {
+    "Id" : 2,
+    "Name" : "Amdaris",
+    "Type" : "Building",
+    "Price" : 22000
+  },
+  {
+    "Id" : 3,
+    "Name" : "Zelinski",
+    "Type" : "House",
+    "Price" : 2000
+  },
+  {
+    "Id" : 4,
+    "Name" : "House name 4",
+    "Type" : "House 4",
+    "Price" : 3453
+    },
+    {
+      "Id" : 5,
+      "Name" : "Building 5",
+      "Type" : "Building",
+      "Price" : 86666
+    },
+    {
+      "Id" : 6,
+      "Name" : "House 6",
+      "Type" : "House",
+      "Price" : 60000
+    },
+    {
+      "Id" : 7,
+      "Name" : "Building 7",
+      "Type" : "Building",
+      "Price" : 70000
+    }
+]
