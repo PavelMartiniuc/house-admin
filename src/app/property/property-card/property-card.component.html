@@ -3,7 +3,7 @@
       <img class="card-img-top" src="assets/images/house_default.png">
       <ul class="list-inline text-center member-icon animate">
         <li class="list-inline-item">
-          <button class="btn btn-primary" ><i class="fa-regular fa-pen-to-square"></i></button>
+          <button class="btn btn-primary" routerLink="/property-detail/{{property.Id}}" ><i class="fa-regular fa-pen-to-square"></i></button>
         </li>
         <li class="list-inline-item">
           <button class="btn btn-primary" ><i class="fa-solid fa-id-card"></i></button>
@@ -11,7 +11,6 @@
       </ul>
     </div>
     <div clas="card-body p-1">
-
       <h1>{{ property.Name }}</h1>
       <h2>{{ property.Type }}</h2>
       <h3>{{ property.Price }}</h3>
